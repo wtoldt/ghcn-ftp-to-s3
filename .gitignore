@@ -1,0 +1,6 @@
+data/*/output
+target
+.classpath
+.project
+.settings
+.mvn
